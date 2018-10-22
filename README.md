@@ -1,12 +1,8 @@
 ## endoscopyImageRetrieval
 
-``Lead contributor:`` **Sharib Ali**
+``Lead contributors:`` **Sharib Ali** and **Soroush Faghihi** 
 
-<sharib.ali@eng.ox.ac.uk>
-
-``Collaborator:`` **Soroush Faghihi** 
-
-<soroush.faghihikashani@wadham.ox.ac.uk>
+Contact: <sharib.ali@eng.ox.ac.uk>
 
 
 
