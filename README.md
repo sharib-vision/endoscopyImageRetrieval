@@ -1,4 +1,4 @@
-## endoscopyImageRetrieval
+## Endoscopy Image Retrieval
 
 ``Lead contributors:`` **Sharib Ali** and **Soroush Faghihi** 
 
