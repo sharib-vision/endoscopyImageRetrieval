@@ -1,6 +1,7 @@
 ## Endoscopy Image Retrieval
 
-``Lead contributors:`` **Sharib Ali** and **Soroush Faghihi** 
+``Lead contributor/s:`` **Sharib Ali** 
+``Collaborators:`` **Soroush Faghihi** 
 
 Contact: <sharib.ali@eng.ox.ac.uk>
 
