@@ -1,8 +1,12 @@
 ## endoscopyImageRetrieval
 
-``Lead contributor: Sharib Ali`` <sharib.ali@eng.ox.ac.uk>
+``Lead contributor:`` **Sharib Ali**
 
-``Collaborator: [Soroush Faghihi]() `` <soroush.faghihikashani@wadham.ox.ac.uk>
+<sharib.ali@eng.ox.ac.uk>
+
+``Collaborator:`` **Soroush Faghihi** 
+
+<soroush.faghihikashani@wadham.ox.ac.uk>
 
 
 
