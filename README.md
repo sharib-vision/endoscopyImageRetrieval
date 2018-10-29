@@ -17,3 +17,9 @@ Endoscopy is a routine imaging technique used for both diagnosis and minimally i
 
 1. Endoscopic image retrieval using [AutoEncoders](https://github.com/sharibox/endoscopyImageRetrieval/tree/master/endo-autoEncoder)
 2. [Siamese](https://github.com/sharibox/endoscopyImageRetrieval/tree/master/endo-siamese) network for pruning image retrieval 
+
+
+## TODO: Check compression Vs Accuracy using same size final encoded embeddings
+
+1. Change CNN size of AE and use CNN-VAE with the same fileter size
+2. Use Global average pooling and FCN for last layers
