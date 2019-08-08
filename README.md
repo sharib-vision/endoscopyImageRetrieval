@@ -21,3 +21,6 @@ Endoscopy is a routine imaging technique used for both diagnosis and minimally i
 
 1. Change CNN size of AE and use CNN-VAE with the same fileter size
 2. Use Global average pooling and FCN for last layers
+
+### Cite:
+Sharib Ali and Jens Rittscher, "Efficient video indexing for monitoring disease activity and progression in the upper gastrointestinal tract", IEEE ISBI, 2019.
