@@ -6,6 +6,7 @@ Contact: <sharib.ali@eng.ox.ac.uk>
 
 ## Acknowledgement:
 Please star or fork to acknowledge if you clone this repository.
+If you use any part of this work then it is mandatory to cite: Sharib Ali and Jens Rittscher, "Efficient video indexing for monitoring disease activity and progression in the upper gastrointestinal tract", IEEE ISBI, 2019.
 
 ## About 
 
